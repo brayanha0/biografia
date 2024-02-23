@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Biografía de Alan Turing">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biografía de Alan Turing</title>
+  <link rel="stylesheet" type="text/css" href="css">
+</head>
+<body>
+<h1>Alan Turing</h1>
+<a href="https://www.nationalgeographic.com.es/ciencia/cuanto-sabes-sobre-alan-turing_14314">
+  <img src="https://www.nationalgeographic.com.es/medio/2019/05/30/alan-turing_2cdcec4e_960x1176.jpg" alt="Imagen de Alan Turing"style="width: 400px; height: auto; display: block; margin: 0 auto;">
+</a>
+<p>
+  <a href="https://es.wikipedia.org/wiki/Alan_Turing">
+    Alan Turing</a> fue un matemático, lógico, informático teórico y criptógrafo británico.
+  Es ampliamente considerado como el padre de la ciencia de la computación y de la inteligencia artificial.
+</p>
+
+<h2>Contribuciones destacadas</h2>
+<ul>
+  <li>Creador de la <a href="#turing-machine">Máquina de Turing</a>.</li>
+  <li>Desarrollador de técnicas cruciales para la <a href="#cryptanalysis">criptografía</a> durante la Segunda Guerra Mundial.</li>
+  <li>Pionero en el campo de la <a href="#ai">inteligencia artificial</a>.</li>
+</ul>
+
+<h2 id="turing-machine">Máquina de Turing</h2>
+<p>
+  La <strong>Máquina de Turing</strong> es un dispositivo que manipula símbolos en una tira de cinta de acuerdo con una tabla de reglas.
+  Aunque es simple, la Máquina de Turing puede utilizarse para modelar la lógica de cualquier algoritmo de computadora,
+  y es la base de la computación moderna.
+</p>
+
+<h2 id="cryptanalysis">Criptografía</h2>
+<p>
+  Durante la Segunda Guerra Mundial, Turing trabajó en Bletchley Park, donde lideró los esfuerzos para descifrar los códigos
+  de la máquina Enigma utilizada por la Alemania nazi.
+  Su trabajo fue fundamental para la victoria aliada y tuvo un impacto significativo en el desarrollo de la criptografía moderna.
+</p>
+
+<h2 id="ai">Inteligencia Artificial</h2>
+<p>
+  Turing es conocido por su trabajo pionero en inteligencia artificial, incluida la formulación del famoso <em>Test de Turing</em>,
+  una prueba de la capacidad de una máquina para exhibir un comportamiento inteligente equivalente o indistinguible del humano.
+  Su visión y contribuciones sentaron las bases para el desarrollo de la IA moderna.
+</p>
+
+<address>
+  Escrito por <a href="brayanhernandezacevedo1@gmail.com">Brayan Hernandez Acevedo</a>.<br>
+  Dirección: Av Santos Degollado, Ciudad Mnedoza. Ver, Mexico.
+</address>
+
+</body>
+</html>
+
